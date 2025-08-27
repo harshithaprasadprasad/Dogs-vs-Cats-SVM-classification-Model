@@ -1,4 +1,7 @@
 # Dogs vs Cats Classification using SVM
+This project implements a Support Vector Machine (SVM) to classify images of cats and dogs from the Kaggle Dogs vs Cats dataset. The goal is to build a machine learning model that can automatically distinguish between the two classes based on extracted image features.
+
+SVM is a powerful supervised learning algorithm that works well for classification tasks. In this project, the images are preprocessed and transformed into feature vectors, which are then fed into the SVM model to learn the decision boundary that separates cats from dogs.
 # Project Overview
 
 This project focuses on building a Support Vector Machine (SVM) classifier to distinguish between images of dogs and cats using the Kaggle Dogs vs Cats dataset.
